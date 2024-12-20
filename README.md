@@ -6,7 +6,7 @@ This is a TypeScript-based Express application.
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/dankhazim/peak-stock-price-checker.git)
    ```
 
 2. Navigate to the project directory:
